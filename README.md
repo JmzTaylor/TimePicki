@@ -1,6 +1,8 @@
 TimePicki
 =========
 
+This was forked to remove the spaces between the colons on the time to prevent parsing issues with certain other libraries
+
 Timepicki - free Time picker jquery plugin, it is simple and clean timepicker so user can understand to set time for your project in input forms.
 
 Reason to make : I have tried to search set timepicker for one of the form page, this type of timepicker only on boostrap framework as bootsstrap-timepicker, but if we use that plugin then also need to use bootstrap css and js, so that will conflict
